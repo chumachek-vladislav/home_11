@@ -15,9 +15,8 @@
    -count
 4. Цикл for (ввод элементов массива):
    
-   for (int i = 0; i < n; i++) {
+      for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
-
         if (arr[i] != 0) {
             sum += arr[i];
             count++;  }
