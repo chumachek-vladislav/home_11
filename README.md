@@ -1,4 +1,4 @@
-[Scheme.drawio](https://github.com/user-attachments/files/23364190/Scheme.drawio)# Домашнее задание к работе 11
+# Домашнее задание к работе 11
 
 ## Условие задачи
 9. Среднее арифметическое значений элементов массива за исключением нулевых элементов.
@@ -183,7 +183,7 @@
   </diagram>
 </mxfile>
 oading Scheme.drawio…]()
-
+[Scheme.drawio](https://github.com/user-attachments/files/23364190/Scheme.drawio)
 
 ## 2. Реализация программы
 #include <stdio.h>
