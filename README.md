@@ -14,13 +14,13 @@
    -sum
    -count
 4. Цикл for (ввод элементов массива):
-   
-      for (int i = 0; i < n; i++) {
-        scanf("%d", &arr[i]);
-        if (arr[i] != 0) {
-            sum += arr[i];
-            count++;  }
-       }
+
+         for (int i = 0; i < n; i++) {
+         scanf("%d", &arr[i]);
+         if (arr[i] != 0) {
+         sum += arr[i];
+         count++;  }
+         }
    
 6. Проверка ненулевых элементов и вычисление среднего арифметического:
    
